@@ -9,7 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@portabletext/react": "^1.0.6",
+    "@sanity/cli": "^3.0.0-dev-preview.11",
+    "dayjs": "^1.11.3",
     "next": "12.2.2",
+    "next-sanity": "^0.6.0",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
